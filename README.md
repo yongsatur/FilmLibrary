@@ -21,7 +21,7 @@
 *   [React](https://reactjs.org/);
 *   [Vite](https://vitejs.dev/);
 *   [React Router](https://reactrouter.com/);
-*   [Material UI (MUI)](https://mui.com/);
+*   [Material UI (MUI)](https://mui.com/).
 
 ## 📄 Лицензия
 
