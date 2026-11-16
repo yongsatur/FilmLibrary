@@ -18,10 +18,9 @@ $`\color{yellow}*`$ **Маршрутизация:** навигация по ст
 
 ## Используемые технологии
 
-$`\color{yellow}*`$ [React](https://reactjs.org/);<br>
-$`\color{yellow}*`$ [Vite](https://vitejs.dev/);<br>
-$`\color{yellow}*`$ [React Router](https://reactrouter.com/);<br>
-$`\color{yellow}*`$ [Material UI (MUI)](https://mui.com/).
+$`\color{yellow}*`$ `React` · `React Router`<br>
+$`\color{yellow}*`$ `Vite`<br>
+$`\color{yellow}*`$ `Material UI (MUI)`
 
 ## Лицензия
 
